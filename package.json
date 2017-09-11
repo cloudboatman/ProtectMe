@@ -1,0 +1,23 @@
+{
+  "name": "protectme",
+  "version": "1.0.0",
+  "description": "A small library providing utility methods to escape and unescape HTML entities. Hence, ProtectMe!",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudboatman/ProtectMe.git"
+  },
+  "author": "Adam Boatman <adam.boatman@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloudboatman/ProtectMe/issues"
+  },
+  "homepage": "https://github.com/cloudboatman/ProtectMe#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.2"
+  }
+}
